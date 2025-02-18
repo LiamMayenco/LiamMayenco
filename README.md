@@ -1,5 +1,5 @@
 <h1 align="center">Hello Everyone 👋, I'm Liam Mayenco</h1>
-<h3 align="center">I'm a software developer currently studying Computing with AI and ML. I'm also in the middle of an Internship.</h3>
+<h3 align="center">I'm a software developer currently studying Computing with AI and ML</h3>
 
 <h2>🤔 Currently Working on:</h2>
 
