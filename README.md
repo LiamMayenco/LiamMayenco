@@ -1,25 +1,17 @@
 <h1 align="center">Hello Everyone 👋, I'm Liam Mayenco</h1>
-<h3 align="center">.</h3>
+<h3 align="center">I'm a software developer currently studying Computing with AI and ML. I'm also in the middle of an Internship.</h3>
 
-GOALS:
--
+<h2>🤔 Currently Working on:</h2>
 
-🌱 <h3> I’m currently learning <h3>
-- Typescript
-- Containerization for app deployment
 
- <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/114681445/205600598-7e891023-cdff-4fb3-916c-4c5ad0c00917.gif" width="500" height="320" />
 
-FUTURE PROJECTS:
-- 
+ <h2>🌱 I’m currently learning:<h2>
+<ul>
+ <li>Typescript - to improve my web development</li>
+ <li>Docker - to deploy containerized applications</li>
+</ul>
 
- <br>
 
- 
-
-<br>
-<p align="left">
-</p>
 
 <!--
 **LiamMayenco/LiamMayenco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
