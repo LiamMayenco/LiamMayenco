@@ -4,8 +4,9 @@
 GOALS:
 -
 
-RIGHT NOW:
-- 🔭 
+🌱 <h3> I’m currently learning <h3>
+- Typescript
+- Containerization for app deployment
 
  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/114681445/205600598-7e891023-cdff-4fb3-916c-4c5ad0c00917.gif" width="500" height="320" />
 
@@ -14,9 +15,7 @@ FUTURE PROJECTS:
 
  <br>
 
- CONTACT ME:
-- 💼 any cool projects? contact me, [email](mailto:) :)
-- 💬 ask me about anything, i am happy to help if I can;
+ 
 
 <br>
 <p align="left">
