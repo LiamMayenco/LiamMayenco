@@ -3,14 +3,14 @@
 
 <h2>🤔 Currently Working on:</h2>
 <ul>
+ <li><a href="https://github.com/LiamMayenco/firstReactWebApp">firstReactWebApp - Testing and Learning React</a></li>
  <li><a href="https://github.com/NeriCarcasci/leo?tab=readme-ov-file">Leo AI - Command Line Assistant</a></li>
 </ul>
 
-
- <h2>🌱 I’m currently learning:</h2>
+<h2>🌱 I’m currently learning:</h2>
+<h3>Web Development:</h3>
 <ul>
- <li>Typescript - to improve my web development</li>
- <li>Docker - to deploy containerized applications</li>
+ <li>React/Typescript - to ultimately build my first web application</li>
 </ul>
 
 
